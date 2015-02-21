@@ -1,0 +1,2 @@
+module BaghsHelper
+end
